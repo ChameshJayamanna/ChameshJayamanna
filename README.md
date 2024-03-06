@@ -1,4 +1,4 @@
-#                                                                    <center> <b> Hi there Im Chamesh 👋</b>
+#                                                                     <b text-align: center> Hi there Im Chamesh 👋</b>
 
 <!--
 **ChameshJayamanna/ChameshJayamanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
