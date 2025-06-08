@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
 
-- 🌱 I’m currently learning **Flutter and Python**
+- 🌱 I’m currently learning **Aangular with Typescript, Python**
 
-- 💬 Ask me about **Java C++**
+- 💬 Ask me about **Java, Spring Boot, Flutter, C++, Supervised ML ..**
 
 - 📫 How to reach me **chameshtheekshana@gmail.com**
 
