@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chamesh Jayamanna</h1>
-<h3 align="center">Full Stack Developer | CS Graduate | ML Learner & Researcher </h3>
+<h3 align="center">CS Graduate | Backend-Focused Full-Stack Developer | ML Learner and Researcher </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
 
-- 🌱 I’m currently learning **Angular with Typescript, Python**
-
-- 💬 Ask me about **Java, Spring Boot, Flutter, C++, Supervised ML ..**
-
-- 📫 How to reach me **chameshtheekshana@gmail.com**
+- 💼 Backend-focused full-stack developer with hands-on experience in Java (Spring Boot) and frontend exposure using Angular & TypeScript  
+- 🤖 Machine learning learner and published researcher with experience in applied ML projects  
+- 💬 Ask me about **Java (Spring Boot), REST APIs, ML integrations, and research work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
