@@ -3,9 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
 
-- 💼 Backend-focused full-stack developer with hands-on experience in Java (Spring Boot) and frontend exposure using Angular & TypeScript  
-- 🤖 Machine learning learner and published researcher with experience in applied ML projects  
-- 💬 Ask me about **Java (Spring Boot), REST APIs, ML integrations, and research work**
+- 💼 Backend-focused full-stack developer with hands-on experience in Java (Spring Boot) and frontend exposure using Angular & TypeScript
+  
+- 🤖 Machine learning learner and published researcher with experience in applied ML projects
+  
+- 💬 Ask me about **Java (Spring Boot), Backend Systems, REST APIs, ML integrations, and Research Work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
