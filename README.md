@@ -12,7 +12,7 @@ CS Graduate | Backend-Focused Full-Stack Developer | ML Learner & Researcher
 
 - 💼 Backend-focused full-stack developer (Java + Spring Boot)  
 - 🌐 Frontend experience with Angular & TypeScript  
-- 🤖 Machine Learning Learner & published researcher with experinced in applied ML projects 
+- 🤖 Machine Learning learner & published researcher with experinced in applied ML projects 
 - 💬 Ask me about **Backend Systems, ML Integrations, and Research Work**
 
 </td>
